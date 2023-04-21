@@ -24,3 +24,4 @@ Skills: I am currently learning React / HTML / CSS / Bootstrap / Tailwind CSS / 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/@YashRamGoyal)  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashRamGoyal)](https://github.com/anuraghazra/github-readme-stats)
